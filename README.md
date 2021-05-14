@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 👋 👋
+
+### You can find me:
+email: danielrosiak@gmail.com
+
+[linkedin](https://www.linkedin.com/in/daniel-rosiak)
+[github](https://github.com/daniel-rosiak)
+[gitlab](https://gitlab.com/daniel-rosiak)
+[bitbucket](https://bitbucket.org/daniel-rosiak)
+
+
+
+
 
 <!--
 **daniel-rosiak/daniel-rosiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
