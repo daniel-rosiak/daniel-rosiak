@@ -1,28 +1,20 @@
-### Hi there 👋 👋 👋
+# Daniel Rosiak
 
-### You can find me:
-email: danielrosiak@gmail.com
+## Head of Software Engineering · Dubai, UAE
 
-[linkedin](https://www.linkedin.com/in/daniel-rosiak)
-[github](https://github.com/daniel-rosiak)
-[gitlab](https://gitlab.com/daniel-rosiak)
-[bitbucket](https://bitbucket.org/daniel-rosiak)
+I lead an engineering organisation of **100+ engineers across Dubai, India and Europe**, with a portfolio spanning **50+ commerce sites and 30+ applications across the GCC**.
 
+My scope connects digital commerce with the broader enterprise: retail and store systems, data platforms, APIs and integrations, mobile applications, cloud infrastructure and enterprise applications.
 
+### Engineering leadership at scale
 
+- **People and delivery:** Leading distributed engineering teams across regions and a broad application portfolio.
+- **Commerce and retail:** Engineering across commerce sites, retail platforms and store systems.
+- **Enterprise platforms:** Connecting data, APIs, integrations, mobile, cloud and enterprise applications.
+- **AI-enabled SDLC transformation:** Leading the adoption of AI across the software development lifecycle.
 
+### Connect
 
-<!--
-**daniel-rosiak/daniel-rosiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://ae.linkedin.com/in/daniel-rosiak) · [Email](mailto:danielrosiak@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/daniel-rosiak) · [GitLab](https://gitlab.com/daniel-rosiak) · [Bitbucket](https://bitbucket.org/daniel-rosiak)
